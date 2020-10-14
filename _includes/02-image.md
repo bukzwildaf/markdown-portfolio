@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The Official Logo of BukzWildAF](https://i.ibb.co/34x6sFW/profile-pic-head3.png)
